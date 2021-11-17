@@ -1,0 +1,176 @@
+[{
+    "week": "第 1 周",
+    "link": [{
+        "title": "单调栈模板",
+        "url": "https://shimo.im/docs/9ti9O9f6q2kJXGTN"
+      },
+      {
+        "title": "单调队列模板",
+        "url": "https://shimo.im/docs/Ux4PvQhQy6kcT26M"
+      }
+    ]
+  },
+  {
+    "week": "第 2 周",
+    "link": [{
+        "title": "前缀和、数组计数代码模板",
+        "url": "https://shimo.im/docs/R8SmKYMs7KsfK45Y"
+      },
+      {
+        "title": "二维前缀和代码模板",
+        "url": "https://shimo.im/docs/vufyatCV6Vo1imT9"
+      },
+      {
+        "title": "差分代码模板",
+        "url": "https://shimo.im/docs/IuXdO0ink38n0gqv"
+      },
+      {
+        "title": "双指针夹逼模板",
+        "url": "https://shimo.im/docs/i47HkK5OXbQmvloN"
+      },
+      {
+        "title": " LRU Cache",
+        "url": "https://shimo.im/docs/VrZCLACWhc8IoDTH"
+      }
+    ]
+  },
+  {
+    "week": "第 3 周",
+    "link": [{
+        "title": "排列递归模板",
+        "url": "https://shimo.im/docs/xTPRw36JTj6DwP8G"
+      },
+      {
+        "title": "组合递归模板",
+        "url": "https://shimo.im/docs/DcDqJ3yKyr98vThh"
+      },
+      {
+        "title": "递归代码模板",
+        "url": "https://shimo.im/docs/LiOznSPZl1cCUweS"
+      },
+      {
+        "title": "分治代码模板",
+        "url": "https://shimo.im/docs/zYiSxKSX3gUfk5If"
+      },
+      {
+        "title": "子集递归模板",
+        "url": "https://shimo.im/docs/yrVQw6rjdVYVJyrH"
+      },
+      {
+        "title": " BFS 拓扑排序模板",
+        "url": "https://shimo.im/docs/XA5O1Uko38QamC75"
+      },
+      {
+        "title": " BFS 地图类模板",
+        "url": "https://shimo.im/docs/gGV3vvckPQ3yD6jp"
+      },
+      {
+        "title": " DFS 无向图找环模板",
+        "url": "https://shimo.im/docs/THukGd6uEqo8JPlb"
+      }
+    ]
+  },
+  {
+    "week": "第 4 周",
+    "link": [{
+        "title": "二叉堆代码模板",
+        "url": "https://shimo.im/docs/KPT4pzQxZxQlsRS2"
+      },
+      {
+        "title": "二分查找代码模板",
+        "url": "https://shimo.im/docs/p6mvnQXcgBUZteZx"
+      },
+      {
+        "title": "二叉搜索树代码模板",
+        "url": "https://shimo.im/docs/JaQcdzApJQ8qVmoQ"
+      },
+      {
+        "title": "二叉搜索树插入模板",
+        "url": "https://shimo.im/docs/JcGyKCx9VdkD9H8y"
+      },
+      {
+        "title": "二叉搜索树删除模板",
+        "url": "https://shimo.im/docs/XdPGrCrGjHXWPkDG"
+      },
+      {
+        "title": "二叉搜索树后继模板",
+        "url": "https://shimo.im/docs/9WCC6gRCDtpGPqh9"
+      }
+    ]
+  },
+  {
+    "week": "第 5 周",
+    "link": [{
+        "title": "堆排序代码示例",
+        "url": "https://shimo.im/docs/LneufQhYZB831RUl"
+      },
+      {
+        "title": "归并排序代码模板",
+        "url": "https://shimo.im/docs/aHIgEa1aL2oJKxXb"
+      },
+      {
+        "title": "快速排序代码模板",
+        "url": "https://shimowendang.com/docs/ACAlmaE7awcywe0P"
+      }
+    ]
+  },
+  {
+    "week": "第 7 周",
+    "link": [{
+        "title": " Trie 树代码模板",
+        "url": "https://shimo.im/docs/nD1XKe23RoQFSoD4"
+      },
+      {
+        "title": "并查集代码模板",
+        "url": "https://shimo.im/docs/cPNO0BMSbWgyDiJ4"
+      }
+    ]
+  },
+  {
+    "week": "第 8 周",
+    "link": [{
+        "title": " Bellman-Ford 求最短路代码模板",
+        "url": "https://shimo.im/docs/Q3RtbhYnhbw18TbT"
+      },
+      {
+        "title": " Dijkstra 求最短路代码模板",
+        "url": "https://shimo.im/docs/eN39dKEKccMfted6"
+      },
+      {
+        "title": " Kruskal 求最小生成树代码模板",
+        "url": "https://shimo.im/docs/iqbCyldufYANZV52"
+      },
+      {
+        "title": " Floyd 求最短路代码模板",
+        "url": "https://shimo.im/docs/O7FfFdDzqvoKPb2j"
+      },
+      {
+        "title": " Rabin-Karp 字符串哈希模板",
+        "url": "https://shimo.im/docs/ziop0MeHs0MhBdwt"
+      },
+      {
+        "title": "字符串转整数代码示例",
+        "url": "https://shimo.im/docs/IrGauTVR0U0aMdIf"
+      }
+    ]
+  },
+  {
+    "week": "第 9 周",
+    "link": [{
+      "title": " KMP 字符串匹配模板",
+      "url": "https://shimo.im/docs/BGrEdqTYy0QVu73A"
+    }]
+  },
+  {
+    "week": "第 10 周",
+    "link": [{
+        "title": "树状数组代码模板",
+        "url": "https://shimowendang.com/docs/3YrhPHyrtjYVHchk"
+      },
+      {
+        "title": "线段树代码模板",
+        "url": "https://shimowendang.com/docs/9RWVg6KtKDYhJKgH"
+      }
+    ]
+  }
+]
