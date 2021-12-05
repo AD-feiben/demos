@@ -1,0 +1,35 @@
+/**
+ * Definition for a binary tree node.
+ * class TreeNode {
+ *     val: number
+ *     left: TreeNode | null
+ *     right: TreeNode | null
+ *     constructor(val?: number, left?: TreeNode | null, right?: TreeNode | null) {
+ *         this.val = (val===undefined ? 0 : val)
+ *         this.left = (left===undefined ? null : left)
+ *         this.right = (right===undefined ? null : right)
+ *     }
+ * }
+ */
+
+function lowestCommonAncestor(
+  root: TreeNode | null,
+  p: TreeNode | null,
+  q: TreeNode | null
+): TreeNode | null {
+  let ans = null;
+  function dfs(root: TreeNode | null) {
+    if (root === null) return [false, false];
+    let leftResult = dfs(root.left);
+    let rigthResult = dfs(root.right);
+    let result = [];
+    result[0] = leftResult[0] || rigthResult[0] || root.val === p.val;
+    result[1] = leftResult[1] || rigthResult[1] || root.val === q.val;
+    if (result[0] && result[1] && ans === null) {
+      ans = root;
+    }
+    return result;
+  }
+  dfs(root);
+  return ans;
+}
