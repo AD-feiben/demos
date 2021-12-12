@@ -34,14 +34,14 @@ function mergeTwoLists(
 }
 
 /** 解法一 */
-function mergeKLists(lists: Array<ListNode | null>): ListNode | null {
-  if (lists.length < 1) return null;
-  let head = lists.pop();
-  while (lists.length > 0) {
-    head = mergeTwoLists(head, lists.pop());
-  }
-  return head;
-}
+// function mergeKLists(lists: Array<ListNode | null>): ListNode | null {
+//   if (lists.length < 1) return null;
+//   let head = lists.pop();
+//   while (lists.length > 0) {
+//     head = mergeTwoLists(head, lists.pop());
+//   }
+//   return head;
+// }
 
 /** 解法二 */
 function merge(lists: Array<ListNode | null>, l: number, r: number) {
